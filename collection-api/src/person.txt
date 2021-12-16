@@ -1,0 +1,3 @@
+name=Ruksana
+age=25
+city=andhra
